@@ -6,9 +6,9 @@ Gem::Specification.new do |s|
   s.version     = '0.0.2'
   s.authors     = ["Lance Gleason"]
   s.email       = ["lgleason@polyglotprogramminginc.com"]
-  s.homepage    = "http://github.com/lgleasain/active-asari"
+  s.homepage    = "http://github.com/playon/active-asari"
   s.summary     = %q{ActiveAsari is a Ruby interface for AWS CloudSearch.}
-  s.description = %q{ActiveAsari is a Ruby interface for AWS CloudSearch}
+  s.description = %q{ActiveAsari is a Ruby interface for AWS CloudSearch.  It uses Asari as a foundation and tries to use conventions like ActiveRecord.}
 
   s.rubyforge_project = "asari"
 
